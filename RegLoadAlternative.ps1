@@ -10,6 +10,8 @@ This is a quick test script and hasn't been productized - no validation, some re
 
 Copy CurrentUserTweaks.ps1 to C:\Downloads
 
+Open compmgmt.msc > create a new user 'user3' and then set the most secure of secure passwords 'Password1234'
+
 #>
 
 
